@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.net.Uri;
+import android.webkit.URLUtil;
 import android.text.Html;
 
 import com.facebook.react.bridge.ReactApplicationContext;
